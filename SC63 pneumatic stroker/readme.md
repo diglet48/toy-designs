@@ -8,10 +8,10 @@ A powerful NEMA23 servo motor, borrowed from the OSSM project, handles control.
 Keep fingers away during operation.
 
 
-![](images\overview.jpg)
-![](images\top.jpg)
-![](images\belt-view.jpg)
-![](images\belt-closeup.jpg)
+![](images/overview.jpg)
+![](images/top.jpg)
+![](images/belt-view.jpg)
+![](images/belt-closeup.jpg)
 
 # Bill Of Materials
 
