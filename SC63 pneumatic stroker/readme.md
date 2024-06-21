@@ -27,7 +27,7 @@ Mechanical parts:
 
 Nuts and bolts:
 
-1. 2x M3 6mm cap head for linear rail.
+1. 4x M3 6mm cap head for linear rail.
 2. 4x M3 8mm for rail idler, any head type. 
 3. 2x M3 8~16mm for piston arm, any head type.
 4. 6x M3 nut.
