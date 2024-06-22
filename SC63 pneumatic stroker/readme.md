@@ -17,12 +17,12 @@ Keep fingers away during operation.
 
 Mechanical parts:
 
-1. SC63-150 pneumatic cylinder from aliexpress. I generally use about 60% of travel.
+1. SC63-150 pneumatic cylinder from aliexpress.
 2. MGN12H Rail and bearing, 250mm or 300mm (300mm in pics). If you use any longer rail, it will stick out in the front.
 3. NEMA23 motor. I use IHSV57 180W.
 4. 8x MR115-2RS 5x11x4mm bearings
 5. 2x 608 8x22x7mm bearings
-6. 2MGT timing belt, about 1m. Design allows for a maximum belt width of 10mm.
+6. 2MGT timing belt, 96cm. Design allows for a maximum belt width of 10mm.
 7. 20-tooth 2MGT pulley. You must use 20-tooth or the pulley mechanism will bind.
 
 Nuts and bolts:
@@ -47,6 +47,27 @@ Plumbing:
 
 I use 5x8mm aquarium tubing, which is almost certainly too small. Additional testing needed. 
 Original venus uses approx 9mm ID, NimbleStroker 16mm ID. 
+
+Here are some numbers about volume:
+
+| part                                                      | volume |
+|-----------------------------------------------------------|--------|
+| SC63-150 pneumatic cylinder                               | 460 ml |
+| venus 2000 (8.2cm diameter * 4cm displacement, estimated) | 211 ml |
+| tremblr (6.3cm diameter * 7cm displacement, estimated)    | 218 ml |
+| 1 meter of 5mm id tubing                                  | 20 ml  |
+| 1 meter of 9mm id tubing                                  | 63 ml  |
+| 1 meter of 16mm id tubing                                 | 200 ml |
+| venus 2000 receiver (5cm * 16cm)                          | 314 ml |
+
+I find myself using between 60% and 80% of the SC63-150 volume, so I'm a bit surprised the 
+volume of the commercial devices is so low.
+
+For tubing, you'd want to choose large enough tubing such that air resistance
+isn't a significant factor, 
+and small enough tubing not to add much volume to the system since
+extra air makes the system less responsive.
+
 
 
 # Printing
