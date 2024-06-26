@@ -22,7 +22,7 @@ Mechanical parts:
 3. NEMA23 motor. I use IHSV57 180W.
 4. 8x MR115-2RS 5x11x4mm bearings
 5. 2x 608 8x22x7mm bearings
-6. 2MGT timing belt, 96cm. Design allows for a maximum belt width of 10mm.
+6. 2MGT timing belt, 1 meter. Design allows for a maximum belt width of 10mm.
 7. 20-tooth 2MGT pulley. You must use 20-tooth or the pulley mechanism will bind.
 
 Nuts and bolts:
@@ -35,7 +35,7 @@ Nuts and bolts:
 6. 1x M5 30~50mm button or cap head for tensioner.
 7. 2x M5 24~27mm button or cap head for rail idler, button head preferred.
 8. 2x M5 nut.
-9. 1x M8 25mm cap head for idler. Can be substituted for 8x30mm pin (modify design yourself).
+9. 1x M8 50mm cap head for idler. Can be substituted for 8x30mm pin (modify design yourself).
 10. 5x M8 20mm countersink for mounting the big prints to the cylinder.
 11. Something to mount the motor. 4x M4 16+mm countersink, or various short M5 nuts/bolts.
 
@@ -76,7 +76,7 @@ All parts can be printed without supports, bridging mode required.
 
 The rail idler and rail arm benefit from being printed in a creep-resistant material such as ABS, otherwise the M3 bolts require daily re-tightening.
 
-The front idler can use extra top/bottom layers.
+The front idler should be printed with 3x the normal amount of top/bottom layers.
 
 Rest can be printed with default settings.
 
@@ -90,3 +90,8 @@ Depending on printer tolerance and cylinder squareness, the motor may need shims
 The tensioner insert must be inserted from the back, or it may slip. If you can't insert the tensioner, make it 5% / 0.1mm thinner and try again.
 
 After assembly, loosen and re-tighten the bolts securing the linear rail to ensure it's parallel to the piston.
+
+
+# Changelog
+
+26/06/2024 Update front idler design with longer bolt, added washer to put between bearings.
