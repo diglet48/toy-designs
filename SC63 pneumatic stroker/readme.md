@@ -51,7 +51,8 @@ You can use 12mm aquarium tubing or 9mm ID garden hose. Test details below
 
 # Plumbing details
 
-The original venus uses approx 9mm ID, NimbleStroker 16mm ID. I tested 5mm ID and 8.5mm ID tube.
+The original venus uses approx 9mm ID, NimbleStroker 16mm ID.
+I tested 8mm aquarium tube (5mm ID) and 12mm aquarium tube (8.5mm ID).
 
 Here are some numbers about volume:
 
