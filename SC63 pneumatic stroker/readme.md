@@ -45,8 +45,13 @@ Not part of this design. You could use the OSSM reference board.
 
 Plumbing:
 
-I use 5x8mm aquarium tubing, which is almost certainly too small. Additional testing needed. 
-Original venus uses approx 9mm ID, NimbleStroker 16mm ID. 
+8 to 9mm ID is likely the best choice.
+You can use 12mm aquarium tubing or 9mm ID garden hose. Test details below
+
+
+# Plumbing details
+
+The original venus uses approx 9mm ID, NimbleStroker 16mm ID. I tested 5mm ID and 8.5mm ID tube.
 
 Here are some numbers about volume:
 
@@ -63,10 +68,19 @@ Here are some numbers about volume:
 I find myself using between 60% and 80% of the SC63-150 volume, so I'm a bit surprised the 
 volume of the commercial devices is so low.
 
-For tubing, you'd want to choose large enough tubing such that air resistance
-isn't a significant factor, 
-and small enough tubing not to add much volume to the system since
-extra air makes the system less responsive.
+I attempted to isolate the power usage of the different components of this build at 60% stroke length, 2 strokes per second.
+
+| Component              | power usage                     |
+|------------------------|---------------------------------|
+| motor + belt + rail    | 8w                              |
+| cylinder friction      | 16w                             |
+| air resistance 1m tube | 20w (5mm ID) <br> 3w (8.5mm ID) |
+| venus 2000 receiver    | 5w                              |
+
+It can be concluded that 5mm tubing adds significant extra resistance,
+8.5mm appears to be large enough. You probably don't want to go larger because extra air
+makes the system less responsive.
+
 
 
 
