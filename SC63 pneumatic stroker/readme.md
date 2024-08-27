@@ -48,6 +48,8 @@ Plumbing:
 8 to 9mm ID is likely the best choice.
 You can use 12mm aquarium tubing or 9mm ID garden hose. Test details below
 
+12x8 aquarium tubing (measured 8.5mm ID) will press-fit on the original venus 2000 receiver.
+A few wraps of teflon tape will make the connection airtight.
 
 # Plumbing details
 
@@ -109,4 +111,5 @@ After assembly, loosen and re-tighten the bolts securing the linear rail to ensu
 
 # Changelog
 
-26/06/2024 Update front idler design with longer bolt, added washer to put between bearings.
+26/06/2024 Update front idler design with longer bolt, added washer to put between bearings.  
+27/08/2024 Update rail idler for shorter belt path, improves tracking.
