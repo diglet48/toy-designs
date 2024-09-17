@@ -32,12 +32,13 @@ Nuts and bolts:
 3. 2x M3 8~16mm for piston arm, any head type.
 4. 6x M3 nut.
 5. 1x M5 30mm button or cap head for tracking adjustment.
-6. 1x M5 30~50mm button or cap head for tensioner.
-7. 2x M5 24~27mm button or cap head for rail idler, button head preferred.
-8. 2x M5 nut.
-9. 1x M8 50mm cap head for idler. Can be substituted for 8x30mm pin (modify design yourself).
-10. 5x M8 20mm countersink for mounting the big prints to the cylinder.
-11. Something to mount the motor. 4x M4 16+mm countersink, or various short M5 nuts/bolts.
+6. 2x M5 30~50mm button or cap head for tensioner and motor bracket.
+7. 1x M5 20~40mm button or cap head for motor tracking adjustment.
+8. 2x M5 24~27mm button or cap head for rail idler, button head preferred.
+9. 3x M5 nut.
+10. 1x M8 50mm cap head for idler. Can be substituted for 8x30mm pin (modify design yourself).
+11. 5x M8 20mm countersink for mounting the big prints to the cylinder.
+12. Something to mount the motor. 4x M4 16+mm countersink, or various short M5 nuts/bolts.
 
 Electronics/software:
 
@@ -91,7 +92,13 @@ makes the system less responsive.
 
 All parts can be printed without supports, bridging mode required.
 
-The rail idler and rail arm benefit from being printed in a creep-resistant material such as ABS, otherwise the M3 bolts require daily re-tightening.
+The back motor plate must be printed in a temperature resistant material 
+such as ABS. 
+This is the only part that needs with withstand high temperatures.
+
+The rail idler and rail arm benefit from being printed in a 
+creep-resistant material such as ABS, but they will work fine
+if printed in PLA if you re-tighten the bolts regularly.
 
 The front idler should be printed with 3x the normal amount of top/bottom layers.
 
@@ -102,9 +109,9 @@ Rest can be printed with default settings.
 
 The rail-mounted idler needs to be oriented with the cutout towards the front.
 
-Depending on printer tolerance and cylinder squareness, the motor may need shims to make sure it's perpendicular to the belt path.
+Adjust the motor support bracket and idler bolts to adjust belt tracking.
 
-The tensioner insert must be inserted from the back, or it may slip. If you can't insert the tensioner, make it 5% / 0.1mm thinner and try again.
+The belt tensioner insert must be inserted from the back, or it may slip. If you can't insert the tensioner, make it 5% / 0.1mm thinner and try again.
 
 After assembly, loosen and re-tighten the bolts securing the linear rail to ensure it's parallel to the piston.
 
@@ -113,3 +120,4 @@ After assembly, loosen and re-tighten the bolts securing the linear rail to ensu
 
 26/06/2024 Update front idler design with longer bolt, added washer to put between bearings.  
 27/08/2024 Update rail idler for shorter belt path, improves tracking.
+17/09/2024 Update motor mounting solution.
