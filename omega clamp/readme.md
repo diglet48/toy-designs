@@ -23,11 +23,11 @@ more than enough range for clench detection.
 It could be utilized for edge-o-matic type functionality
 without invasive sensors.
 
-Hearbeat:
+### Hearbeat:
 ![](images/sample-data-heartbeat.png)
 
-clench:
+### clench:
 ![](images/sample-data-clench.png)
 
-climax:
+### climax:
 ![](images/sample-data-climax.png)
