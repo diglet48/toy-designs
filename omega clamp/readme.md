@@ -5,9 +5,24 @@ on either side of the shaft. Expands/flexes to comform to your size.
 
 Omega rubber can be purchased at Joanne's estim shop.
 
-
 ![](images/picture.jpg)
 ![](images/fusion.png)
+
+# Printing
+
+This part is fairly complicated to print.
+
+If you print in PLA, printing the flexures with 2 walls makes them too
+stiff, and standard slicer profiles result in very weak parts if 
+the flexures are only 1 wall thick.
+
+I had most luck with prusa slicer, 0.6mm walls, classic perimeter generation.
+This results in some minor artifacts in the sensor area.
+
+If you print with more flexible filaments such as PETG, you can get away
+with printing 2 wall flexures and avoid all the printing problems
+associated with single walls.
+
 
 # Erection sensor version
 

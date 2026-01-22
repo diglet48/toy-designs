@@ -30,6 +30,9 @@ Despite the odd measurements, the silicone hose is flexible enough to fit.
 The silicone tube is permeable, causing the setup to lose pressure over time. 
 At 15kPa above atmosphere the pressure loss is about 10% per hour.
 
+The sensor on the sparkfun board has issues with radio interference.
+If you position your sensor close to any 2.4GHz radios, it can be quite noisy.
+
 # Sample data
 
 Pump around `t=10`. Various clenching from `t=25` to `t=110`. Climax `t=110`.
