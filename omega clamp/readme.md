@@ -30,7 +30,8 @@ associated with single walls.
 ![](images/with-sensor-2.jpg)
 
 Uses AS5311-TS_EK_AB magnetic position sensor. 0.5µm resolution.
-I purchased a longer magnet strip from aliexpress.
+I purchased a longer magnet strip from aliexpress. 
+(https://aliexpress.com/item/1005002805940724.html)
 
 The sensor is sensitive enough to detect heartbeat and provides
 more than enough range for clench detection.
