@@ -16,7 +16,7 @@ Fusion files included.
 
 # Materials
 
-* 1.7mm diameter solid metal wire. I salvaged some from 16A wire.
+* 1.7mm diameter solid metal wire. I salvaged some from 2.5mm^2 16A wire.
 * 2mm Banana plug.
 * Inner ring: Protopasta conductive PLA or similar. TPU would be ideal, but I don't have any.
 * Outer ring: filament of your choice.
